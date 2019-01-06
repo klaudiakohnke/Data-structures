@@ -23,5 +23,5 @@ Program parameters:
 - --usun <index> - removes an element from the selected place in the list
 - --usun-glowe - removes the head
 - --usun-ogol - removes the tail
-- --wypisz - return the list
+- --wypisz - returns the list
 
